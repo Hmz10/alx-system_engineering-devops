@@ -1,2 +1,2 @@
-echo "#!/bin/bash
+echo "#!/bin/bash"
 ls
